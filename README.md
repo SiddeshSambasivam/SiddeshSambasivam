@@ -6,5 +6,5 @@ My final year thesis was on Scientific Machine Learning for Knowledge Discovery,
 
 I occasionally write about topics that interest me or about projects that I worked on. Feel free to drop an email to get in touch!
 
-![Siddesh's github stats](https://github-readme-stats.vercel.app/api?username=SiddeshSambasivam&show_icons=true&theme=radical&count_private=true)
+![Siddesh's github stats](https://github-stats-deploy-siddeshsambasivam.vercel.app/api?username=SiddeshSambasivam&show_icons=true&theme=radical)
 
