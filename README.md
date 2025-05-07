@@ -1,6 +1,6 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
 
-I am Siddesh, currently working as a software engineer at [Hypotenuse AI](hypotenuse.ai). I graduated from Nanyang Technological University in Singapore with a degree in Electrical and Electronic Engineering and a second major in Business. 
+I am Siddesh, currently working as a senior software engineer at [Hypotenuse AI](hypotenuse.ai). I graduated from Nanyang Technological University in Singapore with a degree in Electrical and Electronic Engineering and a second major in Business. 
 
 My final year thesis was on Scientific Machine Learning for Knowledge Discovery, under the supervision of Prof. Mao Kezhi and Dr. Feng Yang.
 
